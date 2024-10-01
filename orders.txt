@@ -1,0 +1,7 @@
+YOU ORDER  Veggie Supreme : 480 
+NUMBER OF PIZZA IS : 4
+YOU ORDER  Chrispy Chicken : 520 
+NUMBER OF Chrispy Chicken IS : 5
+							 							  Chrispy Chicken(5) - 2600
+							  Veggie Supreme (4) - 1920
+							 TOTAL BILL IS : 4520
